@@ -1,0 +1,15 @@
+<svg id="Frame_4" data-name="Frame 4" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="24" height="24" viewBox="0 0 24 24">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Frame_4_Background_Mask_" data-name="Frame 4 (Background/Mask)" width="24" height="24" fill="none"/>
+    </clipPath>
+  </defs>
+  <rect id="Frame_4_Background_Mask_2" data-name="Frame 4 (Background/Mask)" width="24" height="24" fill="none"/>
+  <g id="Frame_4-2" data-name="Frame 4" clip-path="url(#clip-path)">
+    <g id="Ellipse_84" data-name="Ellipse 84" fill="none" stroke="#5046c7" stroke-width="1.5" stroke-dasharray="0 0">
+      <circle cx="12" cy="12" r="12" stroke="none"/>
+      <circle cx="12" cy="12" r="11.25" fill="none"/>
+    </g>
+    <path id="Polygon_2" data-name="Polygon 2" d="M4.4.25a.5.5,0,0,1,.866,0l4.33,7.5a.5.5,0,0,1-.433.75H.5a.5.5,0,0,1-.433-.75Z" transform="translate(17.5 7.169) rotate(90)" fill="#5046c7"/>
+  </g>
+</svg>
